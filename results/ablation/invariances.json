@@ -1,0 +1,17 @@
+{
+  "latent_bits_preserved": 12000,
+  "proposal_thresholds_moved": 722670,
+  "proposal_predictions_preserved": 480000,
+  "canonical_support": 24000,
+  "canonical_union": 24000,
+  "fragmented_union": 24000,
+  "tree_structure": 288000,
+  "grouped_predictions": 72000,
+  "no_fragmentation": 18567,
+  "candidate_order": 72000,
+  "column_order": 72000,
+  "scale_by_two": 72000,
+  "unused_features": 72000,
+  "pool_unchanged": 24000,
+  "outcome_null": 9600
+}

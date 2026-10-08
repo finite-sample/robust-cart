@@ -1,0 +1,143 @@
+{
+  "rows": [
+    {
+      "scenario": "family-interaction_mixture-0.0_n-800_p-20",
+      "seed": 3006,
+      "permutation": 1,
+      "method": "weighted_bootstrap",
+      "perturbation": "shallower",
+      "parameters": {
+        "depth": 4,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 100,
+        "pool_size": 20
+      },
+      "accuracy": 1.0,
+      "leaves": 4,
+      "difference": 0.23919999999999997
+    },
+    {
+      "scenario": "family-interaction_mixture-0.0_n-800_p-20",
+      "seed": 3006,
+      "permutation": 1,
+      "method": "weighted_bootstrap",
+      "perturbation": "deeper",
+      "parameters": {
+        "depth": 6,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 100,
+        "pool_size": 20
+      },
+      "accuracy": 1.0,
+      "leaves": 4,
+      "difference": 0.23919999999999997
+    },
+    {
+      "scenario": "family-interaction_mixture-0.0_n-800_p-20",
+      "seed": 3006,
+      "permutation": 1,
+      "method": "weighted_bootstrap",
+      "perturbation": "smaller_leaves",
+      "parameters": {
+        "depth": 5,
+        "leaf": 16,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 100,
+        "pool_size": 20
+      },
+      "accuracy": 1.0,
+      "leaves": 4,
+      "difference": 0.23919999999999997
+    },
+    {
+      "scenario": "family-interaction_mixture-0.0_n-800_p-20",
+      "seed": 3006,
+      "permutation": 1,
+      "method": "weighted_bootstrap",
+      "perturbation": "larger_leaves",
+      "parameters": {
+        "depth": 5,
+        "leaf": 24,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 100,
+        "pool_size": 20
+      },
+      "accuracy": 1.0,
+      "leaves": 4,
+      "difference": 0.23919999999999997
+    },
+    {
+      "scenario": "family-interaction_mixture-0.0_n-800_p-20",
+      "seed": 3006,
+      "permutation": 1,
+      "method": "weighted_bootstrap",
+      "perturbation": "fewer_resamples",
+      "parameters": {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 50,
+        "pool_size": 10
+      },
+      "accuracy": 1.0,
+      "leaves": 4,
+      "difference": 0.23919999999999997
+    },
+    {
+      "scenario": "family-interaction_mixture-0.0_n-800_p-20",
+      "seed": 3006,
+      "permutation": 1,
+      "method": "weighted_bootstrap",
+      "perturbation": "more_resamples",
+      "parameters": {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 200,
+        "pool_size": 40
+      },
+      "accuracy": 1.0,
+      "leaves": 4,
+      "difference": 0.23919999999999997
+    }
+  ],
+  "seconds": 1.339368500004639
+}

@@ -1,0 +1,18 @@
+{
+  "fold_disjoint": 34000,
+  "fold_exhaustive": 34000,
+  "constant_one_leaf": 40800,
+  "fold_training_inputs": 34000,
+  "one_validation_per_row": 6800,
+  "oof_loss_alignment": 6800,
+  "candidate_order": 13600,
+  "nested_validation_minimum": 13600,
+  "shared_family_winner": 13600,
+  "constant_X": 6800,
+  "cart_fallback": 6192,
+  "tree_structure": 60735,
+  "no_gap_identity": 60735,
+  "null_risk": 2800,
+  "fold_local_gap": 1,
+  "heldout_values_do_not_change_fold_fit": 55
+}

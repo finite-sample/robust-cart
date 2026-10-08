@@ -1,0 +1,577 @@
+{
+  "seed": 20261011,
+  "repetitions": 200,
+  "test_size": 5000,
+  "conditions": [
+    {
+      "context": "gaussian",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "gaussian",
+      "n": 800,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "binary",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "binary",
+      "n": 800,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "mixed",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "mixed",
+      "n": 800,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "correlated",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "correlated",
+      "n": 800,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "xor",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "xor",
+      "n": 800,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "majority",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "majority",
+      "n": 800,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "breast_cancer",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "breast_cancer",
+      "n": 800,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "wine",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "wine",
+      "n": 800,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "digits",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "digits",
+      "n": 800,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "gaussian",
+      "n": 200,
+      "eta": 0.1,
+      "delta": 0.25
+    },
+    {
+      "context": "xor",
+      "n": 200,
+      "eta": 0.1,
+      "delta": 0.25
+    },
+    {
+      "context": "majority",
+      "n": 200,
+      "eta": 0.1,
+      "delta": 0.25
+    },
+    {
+      "context": "gaussian",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.0
+    },
+    {
+      "context": "gaussian",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.1
+    },
+    {
+      "context": "gaussian",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.4
+    },
+    {
+      "context": "gaussian",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.6
+    },
+    {
+      "context": "continuous",
+      "n": 200,
+      "eta": 0.1,
+      "delta": 0.25
+    },
+    {
+      "context": "continuous",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "within_cluster",
+      "n": 200,
+      "eta": 0.1,
+      "delta": 0.25
+    },
+    {
+      "context": "within_cluster",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "imbalanced",
+      "n": 200,
+      "eta": 0.1,
+      "delta": 0.25
+    },
+    {
+      "context": "imbalanced",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "contaminated",
+      "n": 200,
+      "eta": 0.1,
+      "delta": 0.25
+    },
+    {
+      "context": "contaminated",
+      "n": 200,
+      "eta": 0.4,
+      "delta": 0.25
+    },
+    {
+      "context": "gaussian",
+      "n": 200,
+      "eta": 0.5,
+      "delta": 0.25
+    }
+  ],
+  "caps": [
+    2,
+    5
+  ],
+  "candidates": [
+    {
+      "family": "constant",
+      "depth": 0,
+      "leaf": 1,
+      "alpha": 0.0
+    },
+    {
+      "family": "cart",
+      "depth": 1,
+      "leaf": 5,
+      "alpha": 0.0
+    },
+    {
+      "family": "cart",
+      "depth": 1,
+      "leaf": 5,
+      "alpha": 0.01
+    },
+    {
+      "family": "cart",
+      "depth": 1,
+      "leaf": 5,
+      "alpha": 0.03
+    },
+    {
+      "family": "cart",
+      "depth": 1,
+      "leaf": 5,
+      "alpha": 0.1
+    },
+    {
+      "family": "cart",
+      "depth": 1,
+      "leaf": 10,
+      "alpha": 0.0
+    },
+    {
+      "family": "cart",
+      "depth": 1,
+      "leaf": 10,
+      "alpha": 0.01
+    },
+    {
+      "family": "cart",
+      "depth": 1,
+      "leaf": 10,
+      "alpha": 0.03
+    },
+    {
+      "family": "cart",
+      "depth": 1,
+      "leaf": 10,
+      "alpha": 0.1
+    },
+    {
+      "family": "cart",
+      "depth": 1,
+      "leaf": 20,
+      "alpha": 0.0
+    },
+    {
+      "family": "cart",
+      "depth": 1,
+      "leaf": 20,
+      "alpha": 0.01
+    },
+    {
+      "family": "cart",
+      "depth": 1,
+      "leaf": 20,
+      "alpha": 0.03
+    },
+    {
+      "family": "cart",
+      "depth": 1,
+      "leaf": 20,
+      "alpha": 0.1
+    },
+    {
+      "family": "cart",
+      "depth": 2,
+      "leaf": 5,
+      "alpha": 0.0
+    },
+    {
+      "family": "cart",
+      "depth": 2,
+      "leaf": 5,
+      "alpha": 0.01
+    },
+    {
+      "family": "cart",
+      "depth": 2,
+      "leaf": 5,
+      "alpha": 0.03
+    },
+    {
+      "family": "cart",
+      "depth": 2,
+      "leaf": 5,
+      "alpha": 0.1
+    },
+    {
+      "family": "cart",
+      "depth": 2,
+      "leaf": 10,
+      "alpha": 0.0
+    },
+    {
+      "family": "cart",
+      "depth": 2,
+      "leaf": 10,
+      "alpha": 0.01
+    },
+    {
+      "family": "cart",
+      "depth": 2,
+      "leaf": 10,
+      "alpha": 0.03
+    },
+    {
+      "family": "cart",
+      "depth": 2,
+      "leaf": 10,
+      "alpha": 0.1
+    },
+    {
+      "family": "cart",
+      "depth": 2,
+      "leaf": 20,
+      "alpha": 0.0
+    },
+    {
+      "family": "cart",
+      "depth": 2,
+      "leaf": 20,
+      "alpha": 0.01
+    },
+    {
+      "family": "cart",
+      "depth": 2,
+      "leaf": 20,
+      "alpha": 0.03
+    },
+    {
+      "family": "cart",
+      "depth": 2,
+      "leaf": 20,
+      "alpha": 0.1
+    },
+    {
+      "family": "cart",
+      "depth": 5,
+      "leaf": 5,
+      "alpha": 0.0
+    },
+    {
+      "family": "cart",
+      "depth": 5,
+      "leaf": 5,
+      "alpha": 0.01
+    },
+    {
+      "family": "cart",
+      "depth": 5,
+      "leaf": 5,
+      "alpha": 0.03
+    },
+    {
+      "family": "cart",
+      "depth": 5,
+      "leaf": 5,
+      "alpha": 0.1
+    },
+    {
+      "family": "cart",
+      "depth": 5,
+      "leaf": 10,
+      "alpha": 0.0
+    },
+    {
+      "family": "cart",
+      "depth": 5,
+      "leaf": 10,
+      "alpha": 0.01
+    },
+    {
+      "family": "cart",
+      "depth": 5,
+      "leaf": 10,
+      "alpha": 0.03
+    },
+    {
+      "family": "cart",
+      "depth": 5,
+      "leaf": 10,
+      "alpha": 0.1
+    },
+    {
+      "family": "cart",
+      "depth": 5,
+      "leaf": 20,
+      "alpha": 0.0
+    },
+    {
+      "family": "cart",
+      "depth": 5,
+      "leaf": 20,
+      "alpha": 0.01
+    },
+    {
+      "family": "cart",
+      "depth": 5,
+      "leaf": 20,
+      "alpha": 0.03
+    },
+    {
+      "family": "cart",
+      "depth": 5,
+      "leaf": 20,
+      "alpha": 0.1
+    },
+    {
+      "family": "raw",
+      "depth": 1,
+      "leaf": 5,
+      "alpha": 0.0
+    },
+    {
+      "family": "raw",
+      "depth": 1,
+      "leaf": 10,
+      "alpha": 0.0
+    },
+    {
+      "family": "raw",
+      "depth": 1,
+      "leaf": 20,
+      "alpha": 0.0
+    },
+    {
+      "family": "raw",
+      "depth": 2,
+      "leaf": 5,
+      "alpha": 0.0
+    },
+    {
+      "family": "raw",
+      "depth": 2,
+      "leaf": 10,
+      "alpha": 0.0
+    },
+    {
+      "family": "raw",
+      "depth": 2,
+      "leaf": 20,
+      "alpha": 0.0
+    },
+    {
+      "family": "raw",
+      "depth": 5,
+      "leaf": 5,
+      "alpha": 0.0
+    },
+    {
+      "family": "raw",
+      "depth": 5,
+      "leaf": 10,
+      "alpha": 0.0
+    },
+    {
+      "family": "raw",
+      "depth": 5,
+      "leaf": 20,
+      "alpha": 0.0
+    },
+    {
+      "family": "mixed",
+      "depth": 1,
+      "leaf": 5,
+      "alpha": 0.0
+    },
+    {
+      "family": "mixed",
+      "depth": 1,
+      "leaf": 10,
+      "alpha": 0.0
+    },
+    {
+      "family": "mixed",
+      "depth": 1,
+      "leaf": 20,
+      "alpha": 0.0
+    },
+    {
+      "family": "mixed",
+      "depth": 2,
+      "leaf": 5,
+      "alpha": 0.0
+    },
+    {
+      "family": "mixed",
+      "depth": 2,
+      "leaf": 10,
+      "alpha": 0.0
+    },
+    {
+      "family": "mixed",
+      "depth": 2,
+      "leaf": 20,
+      "alpha": 0.0
+    },
+    {
+      "family": "mixed",
+      "depth": 5,
+      "leaf": 5,
+      "alpha": 0.0
+    },
+    {
+      "family": "mixed",
+      "depth": 5,
+      "leaf": 10,
+      "alpha": 0.0
+    },
+    {
+      "family": "mixed",
+      "depth": 5,
+      "leaf": 20,
+      "alpha": 0.0
+    }
+  ],
+  "primary": [
+    "cart",
+    "raw",
+    "mixed",
+    "fixed_raw",
+    "fixed_mixed"
+  ],
+  "folds": "Five shuffled KFold folds independent of labels; shared across candidates",
+  "fitting": "Gap maps, partitions, pools and leaf labels learned only from each fitting subset",
+  "selection": "Minimum total out-of-fold mistakes; ties by summed fold leaves, constant/cart/raw/mixed, depth, descending leaf and alpha, index",
+  "refit": "Selected configuration refit on all training rows before evaluation data generated",
+  "baselines": "Same-fold family selection with shared constant; fixed raw/mixed at depth cap and leaf10; learned constant",
+  "inference": "Paired-replicate t intervals; Bonferroni over all 340 primary contrasts",
+  "material_harm_pp": 1.0,
+  "success": "At least one positive simultaneous selector-CART contrast and every nonnull selector-CART lower bound above -1pp",
+  "diagnostics": "Best observed test score among three family winners is optimistic, infeasible, and never used for selection; fold/full test differences descriptive",
+  "prior_information": "Learned-study outcomes informed design; new seed, same 34 populations; smoke is engineering only, no outcome-driven tuning",
+  "missing": "Any failed fit/check aborts; no dropped units; exact source/config resume",
+  "versions": {
+    "python": "3.14.7",
+    "numpy": "2.3.5",
+    "sklearn": "1.8.0"
+  },
+  "source_hashes": {
+    "selection.py": "43a58ffc42ac6f5602d0ff679a21718dd2c1ed35f6baaa0eca28351a042a14cd",
+    "learned.py": "94caae519d4c3e674655c847f8d203fd7822d9d490f2378be7fe88bc3b149c54",
+    "ablation.py": "519c2b012ad8f128a059965e8a2dcfae86854944447de690903d3733dd3cd73e",
+    "trees.py": "c4d489a08604c5a6ae062df88a6d6a173b1e35d38eeab82c20332b5f050097bc",
+    "baselines.py": "0bf84ba191317fe49939efbbc6afa6a727f61532c133edec08e2a5141f73037e"
+  }
+}

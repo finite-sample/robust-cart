@@ -1,0 +1,7 @@
+scenario,method,comparator,difference,low,high,wins,passed
+family-interaction_mixture-0.0_n-800_p-20,weighted_bootstrap,cart_strong,0.17912,0.11029599610086299,0.247944003899137,17,True
+family-interaction_mixture-0.0_n-800_p-20,weighted_bootstrap,lookahead,-0.025571666666666666,-0.07577315092138105,0.02462981758804772,0,False
+family-noise_n-200_noise-0.4_p-20,relative_bootstrap,cart_strong,0.047745,0.031560129449799024,0.06392987055020098,18,True
+family-noise_n-200_noise-0.4_p-20,relative_bootstrap,aloof,0.02349,0.009483857659655481,0.03749614234034452,16,True
+family-noise_n-200_noise-0.4_p-20,relative_random_bootstrap,cart_strong,0.04792500000000001,0.03069412724441041,0.06515587275558961,18,True
+family-noise_n-200_noise-0.4_p-20,relative_random_bootstrap,aloof,0.023669999999999997,0.009461139577400362,0.03787886042259963,16,True

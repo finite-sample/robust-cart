@@ -1,0 +1,7053 @@
+{
+  "settings": {
+    "seeds": 20,
+    "seed_start": 2000,
+    "test_size": 10000,
+    "proposals": 100,
+    "pool_size": 20
+  },
+  "tasks": [
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 200,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.1
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.1
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 2,
+        "noise": 0.4
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 200,
+        "p": 20,
+        "noise": 0.4
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2000,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2000,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2001,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2001,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2002,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2002,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2003,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2003,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2004,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2004,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2005,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2005,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2006,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2006,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2007,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2007,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2008,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2008,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2009,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2009,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2010,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2010,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2011,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2011,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2012,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2012,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2013,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2013,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2014,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2014,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2015,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2015,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2016,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2016,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2017,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2017,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2018,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2018,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2019,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2019,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2000,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2000,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2001,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2001,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2002,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2002,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2003,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2003,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2004,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2004,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2005,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2005,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2006,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2006,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2007,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2007,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2008,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2008,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2009,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2009,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2010,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2010,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2011,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2011,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2012,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2012,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2013,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2013,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2014,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2014,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2015,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2015,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2016,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2016,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2017,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2017,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2018,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2018,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2019,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2019,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2000,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2000,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2001,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2001,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2002,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2002,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2003,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2003,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2004,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2004,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2005,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2005,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2006,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2006,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2007,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2007,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2008,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2008,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2009,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2009,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2010,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2010,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2011,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2011,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2012,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2012,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2013,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2013,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2014,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2014,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2015,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2015,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2016,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2016,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2017,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2017,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2018,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2018,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2019,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 200,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2019,
+      2
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.0
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 0.5
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "objective",
+        "n": 800,
+        "p": 2,
+        "mixture": 1.0
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.1
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.1
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 2,
+        "noise": 0.4
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "noise",
+        "n": 800,
+        "p": 20,
+        "noise": 0.4
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2000,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2000,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2001,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2001,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2002,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2002,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2003,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2003,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2004,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2004,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2005,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2005,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2006,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2006,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2007,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2007,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2008,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2008,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2009,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2009,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2010,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2010,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2011,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2011,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2012,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2012,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2013,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2013,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2014,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2014,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2015,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2015,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2016,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2016,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2017,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2017,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2018,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2018,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2019,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.0
+      },
+      2019,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2000,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2000,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2001,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2001,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2002,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2002,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2003,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2003,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2004,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2004,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2005,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2005,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2006,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2006,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2007,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2007,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2008,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2008,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2009,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2009,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2010,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2010,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2011,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2011,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2012,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2012,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2013,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2013,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2014,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2014,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2015,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2015,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2016,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2016,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2017,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2017,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2018,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2018,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2019,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 0.25
+      },
+      2019,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2000,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2000,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2000,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2001,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2001,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2001,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2002,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2002,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2002,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2003,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2003,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2003,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2004,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2004,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2004,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2005,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2005,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2005,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2006,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2006,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2006,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2007,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2007,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2007,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2008,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2008,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2008,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2009,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2009,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2009,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2010,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2010,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2010,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2011,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2011,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2011,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2012,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2012,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2012,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2013,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2013,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2013,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2014,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2014,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2014,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2015,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2015,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2015,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2016,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2016,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2016,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2017,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2017,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2017,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2018,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2018,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2018,
+      2
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2019,
+      0
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2019,
+      1
+    ],
+    [
+      {
+        "family": "interaction",
+        "n": 800,
+        "p": 20,
+        "mixture": 1.0
+      },
+      2019,
+      2
+    ],
+    [
+      {
+        "family": "real",
+        "name": "breast_cancer"
+      },
+      1000,
+      0
+    ],
+    [
+      {
+        "family": "real",
+        "name": "breast_cancer"
+      },
+      1001,
+      0
+    ],
+    [
+      {
+        "family": "real",
+        "name": "breast_cancer"
+      },
+      1002,
+      0
+    ],
+    [
+      {
+        "family": "real",
+        "name": "breast_cancer"
+      },
+      1003,
+      0
+    ],
+    [
+      {
+        "family": "real",
+        "name": "breast_cancer"
+      },
+      1004,
+      0
+    ],
+    [
+      {
+        "family": "real",
+        "name": "wine"
+      },
+      1000,
+      0
+    ],
+    [
+      {
+        "family": "real",
+        "name": "wine"
+      },
+      1001,
+      0
+    ],
+    [
+      {
+        "family": "real",
+        "name": "wine"
+      },
+      1002,
+      0
+    ],
+    [
+      {
+        "family": "real",
+        "name": "wine"
+      },
+      1003,
+      0
+    ],
+    [
+      {
+        "family": "real",
+        "name": "wine"
+      },
+      1004,
+      0
+    ],
+    [
+      {
+        "family": "real",
+        "name": "digits"
+      },
+      1000,
+      0
+    ],
+    [
+      {
+        "family": "real",
+        "name": "digits"
+      },
+      1001,
+      0
+    ],
+    [
+      {
+        "family": "real",
+        "name": "digits"
+      },
+      1002,
+      0
+    ],
+    [
+      {
+        "family": "real",
+        "name": "digits"
+      },
+      1003,
+      0
+    ],
+    [
+      {
+        "family": "real",
+        "name": "digits"
+      },
+      1004,
+      0
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1000,
+      -1
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1000,
+      0
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1000,
+      1
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1000,
+      2
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1001,
+      -1
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1001,
+      0
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1001,
+      1
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1001,
+      2
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1002,
+      -1
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1002,
+      0
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1002,
+      1
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1002,
+      2
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1003,
+      -1
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1003,
+      0
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1003,
+      1
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1003,
+      2
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1004,
+      -1
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1004,
+      0
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1004,
+      1
+    ],
+    [
+      {
+        "family": "continuous_xor",
+        "n": 600,
+        "p": 20
+      },
+      1004,
+      2
+    ]
+  ],
+  "methods": null,
+  "size_grid": [
+    [
+      2,
+      20
+    ],
+    [
+      2,
+      5
+    ],
+    [
+      5,
+      20
+    ],
+    [
+      5,
+      5
+    ]
+  ],
+  "strong_grid": [
+    [
+      2,
+      20,
+      0.0
+    ],
+    [
+      2,
+      20,
+      0.001
+    ],
+    [
+      2,
+      20,
+      0.005
+    ],
+    [
+      2,
+      20,
+      0.01
+    ],
+    [
+      2,
+      20,
+      0.02
+    ],
+    [
+      2,
+      5,
+      0.0
+    ],
+    [
+      2,
+      5,
+      0.001
+    ],
+    [
+      2,
+      5,
+      0.005
+    ],
+    [
+      2,
+      5,
+      0.01
+    ],
+    [
+      2,
+      5,
+      0.02
+    ],
+    [
+      2,
+      1,
+      0.0
+    ],
+    [
+      2,
+      1,
+      0.001
+    ],
+    [
+      2,
+      1,
+      0.005
+    ],
+    [
+      2,
+      1,
+      0.01
+    ],
+    [
+      2,
+      1,
+      0.02
+    ],
+    [
+      5,
+      20,
+      0.0
+    ],
+    [
+      5,
+      20,
+      0.001
+    ],
+    [
+      5,
+      20,
+      0.005
+    ],
+    [
+      5,
+      20,
+      0.01
+    ],
+    [
+      5,
+      20,
+      0.02
+    ],
+    [
+      5,
+      5,
+      0.0
+    ],
+    [
+      5,
+      5,
+      0.001
+    ],
+    [
+      5,
+      5,
+      0.005
+    ],
+    [
+      5,
+      5,
+      0.01
+    ],
+    [
+      5,
+      5,
+      0.02
+    ],
+    [
+      5,
+      1,
+      0.0
+    ],
+    [
+      5,
+      1,
+      0.001
+    ],
+    [
+      5,
+      1,
+      0.005
+    ],
+    [
+      5,
+      1,
+      0.01
+    ],
+    [
+      5,
+      1,
+      0.02
+    ],
+    [
+      10,
+      20,
+      0.0
+    ],
+    [
+      10,
+      20,
+      0.001
+    ],
+    [
+      10,
+      20,
+      0.005
+    ],
+    [
+      10,
+      20,
+      0.01
+    ],
+    [
+      10,
+      20,
+      0.02
+    ],
+    [
+      10,
+      5,
+      0.0
+    ],
+    [
+      10,
+      5,
+      0.001
+    ],
+    [
+      10,
+      5,
+      0.005
+    ],
+    [
+      10,
+      5,
+      0.01
+    ],
+    [
+      10,
+      5,
+      0.02
+    ],
+    [
+      10,
+      1,
+      0.0
+    ],
+    [
+      10,
+      1,
+      0.001
+    ],
+    [
+      10,
+      1,
+      0.005
+    ],
+    [
+      10,
+      1,
+      0.01
+    ],
+    [
+      10,
+      1,
+      0.02
+    ],
+    [
+      null,
+      20,
+      0.0
+    ],
+    [
+      null,
+      20,
+      0.001
+    ],
+    [
+      null,
+      20,
+      0.005
+    ],
+    [
+      null,
+      20,
+      0.01
+    ],
+    [
+      null,
+      20,
+      0.02
+    ],
+    [
+      null,
+      5,
+      0.0
+    ],
+    [
+      null,
+      5,
+      0.001
+    ],
+    [
+      null,
+      5,
+      0.005
+    ],
+    [
+      null,
+      5,
+      0.01
+    ],
+    [
+      null,
+      5,
+      0.02
+    ],
+    [
+      null,
+      1,
+      0.0
+    ],
+    [
+      null,
+      1,
+      0.001
+    ],
+    [
+      null,
+      1,
+      0.005
+    ],
+    [
+      null,
+      1,
+      0.01
+    ],
+    [
+      null,
+      1,
+      0.02
+    ]
+  ],
+  "taus": [
+    0.0,
+    0.25,
+    0.35,
+    0.5
+  ],
+  "scales": [
+    0.3,
+    0.6,
+    1.0
+  ],
+  "python": "3.14.7",
+  "numpy": "2.3.5",
+  "sklearn": "1.8.0",
+  "source_hashes": {
+    "cart_study/study.py": "806d5bdfd12eaf35dcad1f5b56c168c435be18ecc09b3ff50796f142031fbb71",
+    "cart_study/baselines.py": "0bf84ba191317fe49939efbbc6afa6a727f61532c133edec08e2a5141f73037e",
+    "cart_study/trees.py": "c4d489a08604c5a6ae062df88a6d6a173b1e35d38eeab82c20332b5f050097bc",
+    "cart_study/design.py": "053bdcf89e7e870cf617fdf27b01d2c09f0af1e779a98cafb05447a972df956c"
+  },
+  "source_update": "Hashes identify the current code after module relocation and class renaming. Model, generator, scoring, and reporting definitions were checked for syntax-tree equivalence, and both runners reproduced their pre-move smoke results apart from timing. The saved full-run estimates were not recomputed."
+}

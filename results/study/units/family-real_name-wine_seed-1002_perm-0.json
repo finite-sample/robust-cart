@@ -1,0 +1,3452 @@
+{
+  "spec": {
+    "family": "real",
+    "name": "wine"
+  },
+  "seed": 1002,
+  "permutation": 0,
+  "data": {
+    "training_ids": [
+      41,
+      71,
+      129,
+      136,
+      17,
+      172,
+      151,
+      64,
+      146,
+      99,
+      119,
+      145,
+      88,
+      78,
+      27,
+      58,
+      166,
+      56,
+      85,
+      92,
+      144,
+      156,
+      150,
+      165,
+      7,
+      30,
+      143,
+      34,
+      3,
+      36,
+      153,
+      0,
+      77,
+      72,
+      116,
+      169,
+      81,
+      32,
+      12,
+      120,
+      110,
+      132,
+      90,
+      79,
+      60,
+      18,
+      47,
+      154,
+      97,
+      127,
+      43,
+      114,
+      11,
+      135,
+      75,
+      118,
+      10,
+      176,
+      159,
+      80,
+      111,
+      87,
+      86,
+      31,
+      73,
+      50,
+      82,
+      125,
+      108,
+      57,
+      19,
+      101,
+      14,
+      63,
+      170,
+      24,
+      174,
+      53,
+      117,
+      121,
+      105,
+      37,
+      67,
+      106,
+      140,
+      158,
+      130,
+      91,
+      52,
+      139,
+      83,
+      113,
+      84,
+      49,
+      167,
+      54,
+      142,
+      21,
+      107,
+      22,
+      96,
+      93,
+      74,
+      51,
+      149,
+      4,
+      89,
+      15,
+      29,
+      155,
+      126,
+      175,
+      28,
+      16,
+      33,
+      115,
+      163,
+      133,
+      147,
+      103,
+      162,
+      44,
+      8,
+      23
+    ],
+    "test_ids": [
+      9,
+      100,
+      157,
+      160,
+      128,
+      2,
+      161,
+      94,
+      70,
+      35,
+      59,
+      171,
+      46,
+      6,
+      25,
+      112,
+      40,
+      173,
+      61,
+      66,
+      13,
+      39,
+      102,
+      152,
+      45,
+      69,
+      148,
+      38,
+      95,
+      98,
+      164,
+      5,
+      48,
+      55,
+      168,
+      68,
+      109,
+      65,
+      137,
+      104,
+      124,
+      122,
+      62,
+      141,
+      42,
+      138,
+      1,
+      177,
+      20,
+      76,
+      123,
+      131,
+      134,
+      26
+    ],
+    "columns": [
+      0,
+      5,
+      6,
+      9,
+      8,
+      4,
+      11,
+      12,
+      2,
+      1,
+      7,
+      10,
+      3
+    ],
+    "training_hash": "a78a27d0356621ff8ceffdf8c7fbe25c8d42ea94b1e67f7b9a81a94f4d6d3e88",
+    "test_hash": "c5cc90aaa60a512ee1921097e4afcb7e4dd00609d928e923e460d1654adcf594",
+    "folds": [
+      {
+        "train": [
+          1,
+          2,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          20,
+          21,
+          23,
+          24,
+          25,
+          27,
+          28,
+          29,
+          31,
+          32,
+          33,
+          35,
+          38,
+          39,
+          41,
+          42,
+          45,
+          46,
+          48,
+          49,
+          51,
+          52,
+          54,
+          58,
+          59,
+          60,
+          61,
+          62,
+          63,
+          64,
+          65,
+          69,
+          70,
+          74,
+          76,
+          77,
+          80,
+          81,
+          83,
+          84,
+          86,
+          87,
+          88,
+          90,
+          91,
+          92,
+          93,
+          94,
+          95,
+          96,
+          97,
+          98,
+          100,
+          101,
+          102,
+          104,
+          106,
+          109,
+          114,
+          115,
+          116,
+          117,
+          118,
+          119,
+          120,
+          121,
+          123
+        ],
+        "valid": [
+          0,
+          3,
+          10,
+          11,
+          19,
+          22,
+          26,
+          30,
+          34,
+          36,
+          37,
+          40,
+          43,
+          44,
+          47,
+          50,
+          53,
+          55,
+          56,
+          57,
+          66,
+          67,
+          68,
+          71,
+          72,
+          73,
+          75,
+          78,
+          79,
+          82,
+          85,
+          89,
+          99,
+          103,
+          105,
+          107,
+          108,
+          110,
+          111,
+          112,
+          113,
+          122
+        ]
+      },
+      {
+        "train": [
+          0,
+          1,
+          2,
+          3,
+          5,
+          6,
+          10,
+          11,
+          16,
+          18,
+          19,
+          20,
+          22,
+          25,
+          26,
+          28,
+          29,
+          30,
+          31,
+          32,
+          34,
+          35,
+          36,
+          37,
+          40,
+          42,
+          43,
+          44,
+          45,
+          46,
+          47,
+          50,
+          53,
+          54,
+          55,
+          56,
+          57,
+          58,
+          59,
+          60,
+          62,
+          63,
+          64,
+          66,
+          67,
+          68,
+          69,
+          71,
+          72,
+          73,
+          75,
+          78,
+          79,
+          80,
+          81,
+          82,
+          85,
+          86,
+          87,
+          88,
+          89,
+          90,
+          93,
+          95,
+          99,
+          100,
+          102,
+          103,
+          104,
+          105,
+          106,
+          107,
+          108,
+          109,
+          110,
+          111,
+          112,
+          113,
+          115,
+          116,
+          120,
+          122,
+          123
+        ],
+        "valid": [
+          4,
+          7,
+          8,
+          9,
+          12,
+          13,
+          14,
+          15,
+          17,
+          21,
+          23,
+          24,
+          27,
+          33,
+          38,
+          39,
+          41,
+          48,
+          49,
+          51,
+          52,
+          61,
+          65,
+          70,
+          74,
+          76,
+          77,
+          83,
+          84,
+          91,
+          92,
+          94,
+          96,
+          97,
+          98,
+          101,
+          114,
+          117,
+          118,
+          119,
+          121
+        ]
+      },
+      {
+        "train": [
+          0,
+          3,
+          4,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          17,
+          19,
+          21,
+          22,
+          23,
+          24,
+          26,
+          27,
+          30,
+          33,
+          34,
+          36,
+          37,
+          38,
+          39,
+          40,
+          41,
+          43,
+          44,
+          47,
+          48,
+          49,
+          50,
+          51,
+          52,
+          53,
+          55,
+          56,
+          57,
+          61,
+          65,
+          66,
+          67,
+          68,
+          70,
+          71,
+          72,
+          73,
+          74,
+          75,
+          76,
+          77,
+          78,
+          79,
+          82,
+          83,
+          84,
+          85,
+          89,
+          91,
+          92,
+          94,
+          96,
+          97,
+          98,
+          99,
+          101,
+          103,
+          105,
+          107,
+          108,
+          110,
+          111,
+          112,
+          113,
+          114,
+          117,
+          118,
+          119,
+          121,
+          122
+        ],
+        "valid": [
+          1,
+          2,
+          5,
+          6,
+          16,
+          18,
+          20,
+          25,
+          28,
+          29,
+          31,
+          32,
+          35,
+          42,
+          45,
+          46,
+          54,
+          58,
+          59,
+          60,
+          62,
+          63,
+          64,
+          69,
+          80,
+          81,
+          86,
+          87,
+          88,
+          90,
+          93,
+          95,
+          100,
+          102,
+          104,
+          106,
+          109,
+          115,
+          116,
+          120,
+          123
+        ]
+      }
+    ]
+  },
+  "rows": [
+    {
+      "method": "cart_tuned",
+      "accuracy": 0.8333333333333334,
+      "leaves": 4,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "alpha": 0.0
+      },
+      "validation_error": 0.14516129032258066,
+      "root": 3,
+      "splits": [
+        [
+          0,
+          12.74500036239624
+        ],
+        [
+          2,
+          1.5800000429153442
+        ],
+        [
+          3,
+          3.7699999809265137
+        ]
+      ]
+    },
+    {
+      "method": "cart_strong",
+      "accuracy": 0.8333333333333334,
+      "leaves": 4,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "alpha": 0.0
+      },
+      "validation_error": 0.14516129032258066,
+      "root": 3,
+      "splits": [
+        [
+          0,
+          12.74500036239624
+        ],
+        [
+          2,
+          1.5800000429153442
+        ],
+        [
+          3,
+          3.7699999809265137
+        ]
+      ]
+    },
+    {
+      "method": "holdout_selected",
+      "accuracy": 0.7777777777777778,
+      "leaves": 3,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5
+      },
+      "validation_error": 0.12096774193548387,
+      "root": 7,
+      "splits": [
+        [
+          3,
+          3.9700000286102295
+        ],
+        [
+          7,
+          842.5
+        ]
+      ]
+    },
+    {
+      "method": "holdout_common",
+      "accuracy": 0.8703703703703703,
+      "leaves": 4,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5
+      },
+      "validation_error": 0.13709677419354838,
+      "root": 0,
+      "splits": [
+        [
+          0,
+          12.765000343322754
+        ],
+        [
+          2,
+          0.8849999904632568
+        ],
+        [
+          2,
+          1.600000023841858
+        ]
+      ]
+    },
+    {
+      "method": "holdout_refined",
+      "accuracy": 0.8333333333333334,
+      "leaves": 5,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5
+      },
+      "validation_error": 0.11290322580645161,
+      "root": 7,
+      "splits": [
+        [
+          3,
+          3.9700000286102295
+        ],
+        [
+          6,
+          2.509999990463257
+        ],
+        [
+          7,
+          842.5
+        ],
+        [
+          10,
+          0.5249999761581421
+        ]
+      ]
+    },
+    {
+      "method": "node_vote",
+      "accuracy": 0.8333333333333334,
+      "leaves": 4,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5
+      },
+      "validation_error": 0.1532258064516129,
+      "root": 3,
+      "splits": [
+        [
+          2,
+          1.4800000190734863
+        ],
+        [
+          3,
+          3.7924999594688416
+        ],
+        [
+          7,
+          655.0
+        ]
+      ]
+    },
+    {
+      "method": "error_greedy",
+      "accuracy": 0.8333333333333334,
+      "leaves": 4,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5
+      },
+      "validation_error": 0.1532258064516129,
+      "root": 7,
+      "splits": [
+        [
+          2,
+          1.315
+        ],
+        [
+          3,
+          4.02
+        ],
+        [
+          7,
+          717.0
+        ]
+      ]
+    },
+    {
+      "method": "frequency_bootstrap",
+      "accuracy": 0.7037037037037037,
+      "leaves": 4,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "validation_error": 0.16129032258064516,
+      "root": 7,
+      "splits": [
+        [
+          0,
+          12.790000438690186
+        ],
+        [
+          0,
+          13.164999961853027
+        ],
+        [
+          7,
+          842.5
+        ]
+      ]
+    },
+    {
+      "method": "relative_bootstrap",
+      "accuracy": 0.7037037037037037,
+      "leaves": 4,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "validation_error": 0.16129032258064516,
+      "root": 7,
+      "splits": [
+        [
+          0,
+          12.790000438690186
+        ],
+        [
+          0,
+          13.164999961853027
+        ],
+        [
+          7,
+          842.5
+        ]
+      ]
+    },
+    {
+      "method": "weighted_bootstrap",
+      "accuracy": 0.7777777777777778,
+      "leaves": 4,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      "validation_error": 0.16129032258064516,
+      "root": 7,
+      "splits": [
+        [
+          0,
+          13.164999961853027
+        ],
+        [
+          7,
+          842.5
+        ],
+        [
+          11,
+          0.7849999964237213
+        ]
+      ]
+    },
+    {
+      "method": "relative_random_bootstrap",
+      "accuracy": 0.7962962962962963,
+      "leaves": 4,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "validation_error": 0.14516129032258066,
+      "root": 7,
+      "splits": [
+        [
+          2,
+          1.5800000429153442
+        ],
+        [
+          2,
+          2.399999976158142
+        ],
+        [
+          7,
+          842.5
+        ]
+      ]
+    },
+    {
+      "method": "frequency_subsample",
+      "accuracy": 0.8333333333333334,
+      "leaves": 4,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "validation_error": 0.13709677419354838,
+      "root": 3,
+      "splits": [
+        [
+          2,
+          1.5800000429153442
+        ],
+        [
+          3,
+          3.7699999809265137
+        ]
+      ]
+    },
+    {
+      "method": "relative_subsample",
+      "accuracy": 0.8333333333333334,
+      "leaves": 4,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "validation_error": 0.13709677419354838,
+      "root": 3,
+      "splits": [
+        [
+          2,
+          1.5800000429153442
+        ],
+        [
+          3,
+          3.7699999809265137
+        ]
+      ]
+    },
+    {
+      "method": "weighted_subsample",
+      "accuracy": 0.8333333333333334,
+      "leaves": 4,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      "validation_error": 0.13709677419354838,
+      "root": 3,
+      "splits": [
+        [
+          2,
+          1.5800000429153442
+        ],
+        [
+          3,
+          3.7699999809265137
+        ]
+      ]
+    },
+    {
+      "method": "relative_random_subsample",
+      "accuracy": 0.8333333333333334,
+      "leaves": 4,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "validation_error": 0.13709677419354838,
+      "root": 3,
+      "splits": [
+        [
+          2,
+          1.5800000429153442
+        ],
+        [
+          3,
+          3.7699999809265137
+        ]
+      ]
+    },
+    {
+      "method": "cart",
+      "accuracy": 0.9444444444444444,
+      "leaves": 6,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5
+      },
+      "validation_error": null,
+      "root": 3,
+      "splits": [
+        [
+          0,
+          12.74500036239624
+        ],
+        [
+          2,
+          1.5800000429153442
+        ],
+        [
+          3,
+          3.7699999809265137
+        ],
+        [
+          6,
+          2.0549999475479126
+        ],
+        [
+          7,
+          724.5
+        ]
+      ]
+    },
+    {
+      "method": "fixed_original",
+      "accuracy": 0.8518518518518519,
+      "leaves": 4,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5
+      },
+      "validation_error": null,
+      "root": 7,
+      "splits": [
+        [
+          2,
+          1.5800000429153442
+        ],
+        [
+          3,
+          3.9700000286102295
+        ],
+        [
+          7,
+          840.0
+        ]
+      ]
+    },
+    {
+      "method": "fixed_random_ties",
+      "accuracy": 0.8518518518518519,
+      "leaves": 4,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5
+      },
+      "validation_error": null,
+      "root": 7,
+      "splits": [
+        [
+          2,
+          1.5800000429153442
+        ],
+        [
+          3,
+          3.9700000286102295
+        ],
+        [
+          7,
+          840.0
+        ]
+      ]
+    },
+    {
+      "method": "fixed_keep_single_class",
+      "accuracy": 0.8333333333333334,
+      "leaves": 4,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5
+      },
+      "validation_error": null,
+      "root": 7,
+      "splits": [
+        [
+          2,
+          1.6800000071525574
+        ],
+        [
+          3,
+          3.9700000286102295
+        ],
+        [
+          7,
+          840.0
+        ]
+      ]
+    },
+    {
+      "method": "fixed_refined",
+      "accuracy": 0.8333333333333334,
+      "leaves": 4,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5
+      },
+      "validation_error": null,
+      "root": 7,
+      "splits": [
+        [
+          2,
+          1.6800000071525574
+        ],
+        [
+          3,
+          3.9700000286102295
+        ],
+        [
+          7,
+          840.0
+        ]
+      ]
+    }
+  ],
+  "curves": [
+    {
+      "method": "cart_tuned",
+      "depth": 2,
+      "leaves": 4,
+      "accuracy": 0.8333333333333334,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "alpha": 0.0
+      }
+    },
+    {
+      "method": "cart_tuned",
+      "depth": 5,
+      "leaves": 6,
+      "accuracy": 0.9444444444444444,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5,
+        "alpha": 0.0
+      }
+    },
+    {
+      "method": "cart_strong",
+      "depth": 2,
+      "leaves": 4,
+      "accuracy": 0.8333333333333334,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "alpha": 0.0
+      }
+    },
+    {
+      "method": "cart_strong",
+      "depth": 5,
+      "leaves": 7,
+      "accuracy": 0.9444444444444444,
+      "parameters": {
+        "depth": 5,
+        "leaf": 1,
+        "alpha": 0.0
+      }
+    },
+    {
+      "method": "cart_strong",
+      "depth": 10,
+      "leaves": 7,
+      "accuracy": 0.9444444444444444,
+      "parameters": {
+        "depth": 10,
+        "leaf": 1,
+        "alpha": 0.0
+      }
+    },
+    {
+      "method": "holdout_selected",
+      "depth": 2,
+      "leaves": 3,
+      "accuracy": 0.7777777777777778,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5
+      }
+    },
+    {
+      "method": "holdout_selected",
+      "depth": 5,
+      "leaves": 4,
+      "accuracy": 0.8518518518518519,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5
+      }
+    },
+    {
+      "method": "holdout_common",
+      "depth": 2,
+      "leaves": 4,
+      "accuracy": 0.8703703703703703,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5
+      }
+    },
+    {
+      "method": "holdout_common",
+      "depth": 5,
+      "leaves": 4,
+      "accuracy": 0.8703703703703703,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5
+      }
+    },
+    {
+      "method": "holdout_refined",
+      "depth": 2,
+      "leaves": 3,
+      "accuracy": 0.7777777777777778,
+      "parameters": {
+        "depth": 2,
+        "leaf": 20
+      }
+    },
+    {
+      "method": "holdout_refined",
+      "depth": 5,
+      "leaves": 5,
+      "accuracy": 0.8333333333333334,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5
+      }
+    },
+    {
+      "method": "node_vote",
+      "depth": 2,
+      "leaves": 4,
+      "accuracy": 0.8333333333333334,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5
+      }
+    },
+    {
+      "method": "node_vote",
+      "depth": 5,
+      "leaves": 4,
+      "accuracy": 0.8333333333333334,
+      "parameters": {
+        "depth": 5,
+        "leaf": 20
+      }
+    },
+    {
+      "method": "error_greedy",
+      "depth": 2,
+      "leaves": 4,
+      "accuracy": 0.8333333333333334,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5
+      }
+    },
+    {
+      "method": "error_greedy",
+      "depth": 5,
+      "leaves": 6,
+      "accuracy": 0.9259259259259259,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5
+      }
+    },
+    {
+      "method": "frequency_bootstrap",
+      "depth": 2,
+      "leaves": 4,
+      "accuracy": 0.7037037037037037,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      }
+    },
+    {
+      "method": "relative_bootstrap",
+      "depth": 2,
+      "leaves": 4,
+      "accuracy": 0.7037037037037037,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      }
+    },
+    {
+      "method": "weighted_bootstrap",
+      "depth": 2,
+      "leaves": 4,
+      "accuracy": 0.7777777777777778,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.3
+      }
+    },
+    {
+      "method": "relative_random_bootstrap",
+      "depth": 2,
+      "leaves": 4,
+      "accuracy": 0.7962962962962963,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      }
+    },
+    {
+      "method": "frequency_bootstrap",
+      "depth": 5,
+      "leaves": 7,
+      "accuracy": 0.8333333333333334,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      }
+    },
+    {
+      "method": "relative_bootstrap",
+      "depth": 5,
+      "leaves": 7,
+      "accuracy": 0.8333333333333334,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      }
+    },
+    {
+      "method": "weighted_bootstrap",
+      "depth": 5,
+      "leaves": 7,
+      "accuracy": 0.8333333333333334,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.3
+      }
+    },
+    {
+      "method": "relative_random_bootstrap",
+      "depth": 5,
+      "leaves": 8,
+      "accuracy": 0.8333333333333334,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      }
+    },
+    {
+      "method": "frequency_subsample",
+      "depth": 2,
+      "leaves": 4,
+      "accuracy": 0.8333333333333334,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      }
+    },
+    {
+      "method": "relative_subsample",
+      "depth": 2,
+      "leaves": 4,
+      "accuracy": 0.8333333333333334,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      }
+    },
+    {
+      "method": "weighted_subsample",
+      "depth": 2,
+      "leaves": 4,
+      "accuracy": 0.8333333333333334,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.3
+      }
+    },
+    {
+      "method": "relative_random_subsample",
+      "depth": 2,
+      "leaves": 4,
+      "accuracy": 0.8333333333333334,
+      "parameters": {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      }
+    },
+    {
+      "method": "frequency_subsample",
+      "depth": 5,
+      "leaves": 8,
+      "accuracy": 0.9444444444444444,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      }
+    },
+    {
+      "method": "relative_subsample",
+      "depth": 5,
+      "leaves": 8,
+      "accuracy": 0.9444444444444444,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      }
+    },
+    {
+      "method": "weighted_subsample",
+      "depth": 5,
+      "leaves": 8,
+      "accuracy": 0.9444444444444444,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.3
+      }
+    },
+    {
+      "method": "relative_random_subsample",
+      "depth": 5,
+      "leaves": 9,
+      "accuracy": 0.9444444444444444,
+      "parameters": {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      }
+    }
+  ],
+  "cv_errors": {
+    "cart_tuned": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      18,
+      18,
+      18,
+      18,
+      18,
+      20,
+      20,
+      20,
+      20,
+      20,
+      19,
+      19,
+      19,
+      19,
+      19
+    ],
+    "cart_strong": [
+      20,
+      20,
+      20,
+      20,
+      20,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      18,
+      20,
+      20,
+      20,
+      20,
+      20,
+      19,
+      19,
+      19,
+      19,
+      19,
+      18,
+      18,
+      18,
+      18,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      19,
+      19,
+      19,
+      19,
+      19,
+      18,
+      18,
+      18,
+      18,
+      19,
+      20,
+      20,
+      20,
+      20,
+      20,
+      19,
+      19,
+      19,
+      19,
+      19,
+      18,
+      18,
+      18,
+      18,
+      19
+    ],
+    "holdout_selected": [
+      28,
+      15,
+      28,
+      15
+    ],
+    "holdout_common": [
+      21,
+      17,
+      21,
+      17
+    ],
+    "holdout_refined": [
+      22,
+      22,
+      22,
+      14
+    ],
+    "node_vote": [
+      20,
+      19,
+      20,
+      21
+    ],
+    "error_greedy": [
+      27,
+      19,
+      27,
+      19
+    ],
+    "frequency_bootstrap": [
+      30,
+      68,
+      74,
+      74,
+      20,
+      68,
+      74,
+      74,
+      30,
+      68,
+      74,
+      74,
+      22,
+      68,
+      74,
+      74
+    ],
+    "relative_bootstrap": [
+      30,
+      30,
+      31,
+      40,
+      20,
+      20,
+      20,
+      29,
+      30,
+      30,
+      31,
+      40,
+      22,
+      22,
+      22,
+      31
+    ],
+    "weighted_bootstrap": [
+      23,
+      23,
+      23,
+      68,
+      68,
+      68,
+      74,
+      74,
+      74,
+      74,
+      74,
+      74,
+      20,
+      20,
+      20,
+      68,
+      68,
+      68,
+      74,
+      74,
+      74,
+      74,
+      74,
+      74,
+      23,
+      23,
+      23,
+      68,
+      68,
+      68,
+      74,
+      74,
+      74,
+      74,
+      74,
+      74,
+      22,
+      22,
+      22,
+      68,
+      68,
+      68,
+      74,
+      74,
+      74,
+      74,
+      74,
+      74
+    ],
+    "relative_random_bootstrap": [
+      26,
+      26,
+      29,
+      38,
+      18,
+      18,
+      18,
+      28,
+      26,
+      26,
+      29,
+      38,
+      20,
+      20,
+      20,
+      30
+    ],
+    "frequency_subsample": [
+      21,
+      44,
+      44,
+      44,
+      17,
+      25,
+      25,
+      44,
+      21,
+      44,
+      44,
+      44,
+      17,
+      25,
+      25,
+      44
+    ],
+    "relative_subsample": [
+      21,
+      39,
+      44,
+      44,
+      17,
+      17,
+      17,
+      25,
+      21,
+      39,
+      44,
+      44,
+      17,
+      17,
+      17,
+      25
+    ],
+    "weighted_subsample": [
+      21,
+      21,
+      21,
+      44,
+      44,
+      44,
+      44,
+      44,
+      44,
+      44,
+      44,
+      44,
+      17,
+      17,
+      17,
+      25,
+      25,
+      25,
+      25,
+      25,
+      25,
+      44,
+      44,
+      44,
+      21,
+      21,
+      21,
+      44,
+      44,
+      44,
+      44,
+      44,
+      44,
+      44,
+      44,
+      44,
+      17,
+      17,
+      17,
+      25,
+      25,
+      25,
+      25,
+      25,
+      25,
+      44,
+      44,
+      44
+    ],
+    "relative_random_subsample": [
+      20,
+      36,
+      44,
+      44,
+      17,
+      17,
+      17,
+      25,
+      20,
+      36,
+      44,
+      44,
+      17,
+      17,
+      17,
+      25
+    ]
+  },
+  "candidate_parameters": {
+    "cart_tuned": [
+      {
+        "depth": 2,
+        "leaf": 20,
+        "alpha": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "alpha": 0.001
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "alpha": 0.005
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "alpha": 0.01
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "alpha": 0.02
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "alpha": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "alpha": 0.001
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "alpha": 0.005
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "alpha": 0.01
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "alpha": 0.02
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "alpha": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "alpha": 0.001
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "alpha": 0.005
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "alpha": 0.01
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "alpha": 0.02
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "alpha": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "alpha": 0.001
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "alpha": 0.005
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "alpha": 0.01
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "alpha": 0.02
+      }
+    ],
+    "cart_strong": [
+      {
+        "depth": 2,
+        "leaf": 20,
+        "alpha": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "alpha": 0.001
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "alpha": 0.005
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "alpha": 0.01
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "alpha": 0.02
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "alpha": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "alpha": 0.001
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "alpha": 0.005
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "alpha": 0.01
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "alpha": 0.02
+      },
+      {
+        "depth": 2,
+        "leaf": 1,
+        "alpha": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 1,
+        "alpha": 0.001
+      },
+      {
+        "depth": 2,
+        "leaf": 1,
+        "alpha": 0.005
+      },
+      {
+        "depth": 2,
+        "leaf": 1,
+        "alpha": 0.01
+      },
+      {
+        "depth": 2,
+        "leaf": 1,
+        "alpha": 0.02
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "alpha": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "alpha": 0.001
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "alpha": 0.005
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "alpha": 0.01
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "alpha": 0.02
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "alpha": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "alpha": 0.001
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "alpha": 0.005
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "alpha": 0.01
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "alpha": 0.02
+      },
+      {
+        "depth": 5,
+        "leaf": 1,
+        "alpha": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 1,
+        "alpha": 0.001
+      },
+      {
+        "depth": 5,
+        "leaf": 1,
+        "alpha": 0.005
+      },
+      {
+        "depth": 5,
+        "leaf": 1,
+        "alpha": 0.01
+      },
+      {
+        "depth": 5,
+        "leaf": 1,
+        "alpha": 0.02
+      },
+      {
+        "depth": 10,
+        "leaf": 20,
+        "alpha": 0.0
+      },
+      {
+        "depth": 10,
+        "leaf": 20,
+        "alpha": 0.001
+      },
+      {
+        "depth": 10,
+        "leaf": 20,
+        "alpha": 0.005
+      },
+      {
+        "depth": 10,
+        "leaf": 20,
+        "alpha": 0.01
+      },
+      {
+        "depth": 10,
+        "leaf": 20,
+        "alpha": 0.02
+      },
+      {
+        "depth": 10,
+        "leaf": 5,
+        "alpha": 0.0
+      },
+      {
+        "depth": 10,
+        "leaf": 5,
+        "alpha": 0.001
+      },
+      {
+        "depth": 10,
+        "leaf": 5,
+        "alpha": 0.005
+      },
+      {
+        "depth": 10,
+        "leaf": 5,
+        "alpha": 0.01
+      },
+      {
+        "depth": 10,
+        "leaf": 5,
+        "alpha": 0.02
+      },
+      {
+        "depth": 10,
+        "leaf": 1,
+        "alpha": 0.0
+      },
+      {
+        "depth": 10,
+        "leaf": 1,
+        "alpha": 0.001
+      },
+      {
+        "depth": 10,
+        "leaf": 1,
+        "alpha": 0.005
+      },
+      {
+        "depth": 10,
+        "leaf": 1,
+        "alpha": 0.01
+      },
+      {
+        "depth": 10,
+        "leaf": 1,
+        "alpha": 0.02
+      },
+      {
+        "depth": null,
+        "leaf": 20,
+        "alpha": 0.0
+      },
+      {
+        "depth": null,
+        "leaf": 20,
+        "alpha": 0.001
+      },
+      {
+        "depth": null,
+        "leaf": 20,
+        "alpha": 0.005
+      },
+      {
+        "depth": null,
+        "leaf": 20,
+        "alpha": 0.01
+      },
+      {
+        "depth": null,
+        "leaf": 20,
+        "alpha": 0.02
+      },
+      {
+        "depth": null,
+        "leaf": 5,
+        "alpha": 0.0
+      },
+      {
+        "depth": null,
+        "leaf": 5,
+        "alpha": 0.001
+      },
+      {
+        "depth": null,
+        "leaf": 5,
+        "alpha": 0.005
+      },
+      {
+        "depth": null,
+        "leaf": 5,
+        "alpha": 0.01
+      },
+      {
+        "depth": null,
+        "leaf": 5,
+        "alpha": 0.02
+      },
+      {
+        "depth": null,
+        "leaf": 1,
+        "alpha": 0.0
+      },
+      {
+        "depth": null,
+        "leaf": 1,
+        "alpha": 0.001
+      },
+      {
+        "depth": null,
+        "leaf": 1,
+        "alpha": 0.005
+      },
+      {
+        "depth": null,
+        "leaf": 1,
+        "alpha": 0.01
+      },
+      {
+        "depth": null,
+        "leaf": 1,
+        "alpha": 0.02
+      }
+    ],
+    "holdout_selected": [
+      {
+        "depth": 2,
+        "leaf": 20
+      },
+      {
+        "depth": 2,
+        "leaf": 5
+      },
+      {
+        "depth": 5,
+        "leaf": 20
+      },
+      {
+        "depth": 5,
+        "leaf": 5
+      }
+    ],
+    "holdout_common": [
+      {
+        "depth": 2,
+        "leaf": 20
+      },
+      {
+        "depth": 2,
+        "leaf": 5
+      },
+      {
+        "depth": 5,
+        "leaf": 20
+      },
+      {
+        "depth": 5,
+        "leaf": 5
+      }
+    ],
+    "holdout_refined": [
+      {
+        "depth": 2,
+        "leaf": 20
+      },
+      {
+        "depth": 2,
+        "leaf": 5
+      },
+      {
+        "depth": 5,
+        "leaf": 20
+      },
+      {
+        "depth": 5,
+        "leaf": 5
+      }
+    ],
+    "node_vote": [
+      {
+        "depth": 2,
+        "leaf": 20
+      },
+      {
+        "depth": 2,
+        "leaf": 5
+      },
+      {
+        "depth": 5,
+        "leaf": 20
+      },
+      {
+        "depth": 5,
+        "leaf": 5
+      }
+    ],
+    "error_greedy": [
+      {
+        "depth": 2,
+        "leaf": 20
+      },
+      {
+        "depth": 2,
+        "leaf": 5
+      },
+      {
+        "depth": 5,
+        "leaf": 20
+      },
+      {
+        "depth": 5,
+        "leaf": 5
+      }
+    ],
+    "frequency_bootstrap": [
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.0
+      }
+    ],
+    "relative_bootstrap": [
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.0
+      }
+    ],
+    "weighted_bootstrap": [
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 1.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 1.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 1.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 1.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 1.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 1.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 1.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 1.0
+      }
+    ],
+    "relative_random_bootstrap": [
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.0
+      }
+    ],
+    "frequency_subsample": [
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.0
+      }
+    ],
+    "relative_subsample": [
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.0
+      }
+    ],
+    "weighted_subsample": [
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 1.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 1.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 1.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 1.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 1.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 1.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 1.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.3
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.6
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 1.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.3
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.6
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 1.0
+      }
+    ],
+    "relative_random_subsample": [
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 2,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.5,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.25,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.35,
+        "scale": 0.0
+      },
+      {
+        "depth": 5,
+        "leaf": 5,
+        "tau": 0.5,
+        "scale": 0.0
+      }
+    ]
+  },
+  "tuning_seconds": 16.428215541993268,
+  "total_seconds": 28.24386004199914
+}

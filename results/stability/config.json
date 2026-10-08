@@ -1,0 +1,62 @@
+{
+  "settings": {
+    "seeds": 5,
+    "refits": 10,
+    "subsamples": 100,
+    "pool_size": 20,
+    "max_depth": 5,
+    "min_samples_leaf": 5,
+    "seed_start": 1000
+  },
+  "scenarios": [
+    "low_noise",
+    "moderate_noise",
+    "heavy_noise",
+    "very_heavy_noise",
+    "breast_cancer",
+    "wine",
+    "digits",
+    "linear_baseline",
+    "many_noise_features",
+    "small_sample",
+    "duplicates_3",
+    "high_noise_60",
+    "duplicates_6",
+    "duplicates_6_noise1",
+    "imbalance_60_40",
+    "sparse_highd",
+    "xor"
+  ],
+  "python": "3.14.7",
+  "numpy": "2.3.5",
+  "pandas": "2.3.3",
+  "sklearn": "1.8.0",
+  "source_hashes": {
+    "cart_study/trees.py": "c4d489a08604c5a6ae062df88a6d6a173b1e35d38eeab82c20332b5f050097bc",
+    "cart_study/stability.py": "84414f376e0957f232059ec64c1e6503fa2274ac586970fabc02a8c1f0f8c02c",
+    "cart_study/design.py": "053bdcf89e7e870cf617fdf27b01d2c09f0af1e779a98cafb05447a972df956c"
+  },
+  "grids": {
+    "tau": [
+      0.0,
+      0.25,
+      0.35,
+      0.5
+    ],
+    "scale": [
+      0.3,
+      0.6,
+      1.0
+    ],
+    "alpha": [
+      0.0,
+      0.001,
+      0.005,
+      0.01,
+      0.02
+    ]
+  },
+  "outer_resampling": "80% stratified without replacement; fixed original 30% test split",
+  "jobs": 4,
+  "source_update": "Hashes identify the current code after module relocation and class renaming. Model, generator, scoring, and reporting definitions were checked for syntax-tree equivalence, and both runners reproduced their pre-move smoke results apart from timing. The saved full-run estimates were not recomputed."
+}

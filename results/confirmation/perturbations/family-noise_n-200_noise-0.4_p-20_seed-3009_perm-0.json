@@ -1,0 +1,281 @@
+{
+  "rows": [
+    {
+      "scenario": "family-noise_n-200_noise-0.4_p-20",
+      "seed": 3009,
+      "permutation": 0,
+      "method": "relative_bootstrap",
+      "perturbation": "shallower",
+      "parameters": {
+        "depth": 4,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 100,
+        "pool_size": 20
+      },
+      "accuracy": 0.496,
+      "leaves": 7,
+      "difference": -0.008399999999999963
+    },
+    {
+      "scenario": "family-noise_n-200_noise-0.4_p-20",
+      "seed": 3009,
+      "permutation": 0,
+      "method": "relative_bootstrap",
+      "perturbation": "deeper",
+      "parameters": {
+        "depth": 6,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 100,
+        "pool_size": 20
+      },
+      "accuracy": 0.496,
+      "leaves": 7,
+      "difference": -0.008399999999999963
+    },
+    {
+      "scenario": "family-noise_n-200_noise-0.4_p-20",
+      "seed": 3009,
+      "permutation": 0,
+      "method": "relative_bootstrap",
+      "perturbation": "smaller_leaves",
+      "parameters": {
+        "depth": 5,
+        "leaf": 16,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 100,
+        "pool_size": 20
+      },
+      "accuracy": 0.5076,
+      "leaves": 7,
+      "difference": 0.0032000000000000917
+    },
+    {
+      "scenario": "family-noise_n-200_noise-0.4_p-20",
+      "seed": 3009,
+      "permutation": 0,
+      "method": "relative_bootstrap",
+      "perturbation": "larger_leaves",
+      "parameters": {
+        "depth": 5,
+        "leaf": 24,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 100,
+        "pool_size": 20
+      },
+      "accuracy": 0.5035,
+      "leaves": 6,
+      "difference": -0.0009000000000000119
+    },
+    {
+      "scenario": "family-noise_n-200_noise-0.4_p-20",
+      "seed": 3009,
+      "permutation": 0,
+      "method": "relative_bootstrap",
+      "perturbation": "fewer_resamples",
+      "parameters": {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 50,
+        "pool_size": 10
+      },
+      "accuracy": 0.5056,
+      "leaves": 8,
+      "difference": 0.0012000000000000899
+    },
+    {
+      "scenario": "family-noise_n-200_noise-0.4_p-20",
+      "seed": 3009,
+      "permutation": 0,
+      "method": "relative_bootstrap",
+      "perturbation": "more_resamples",
+      "parameters": {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 200,
+        "pool_size": 40
+      },
+      "accuracy": 0.5139,
+      "leaves": 8,
+      "difference": 0.009500000000000064
+    },
+    {
+      "scenario": "family-noise_n-200_noise-0.4_p-20",
+      "seed": 3009,
+      "permutation": 0,
+      "method": "relative_random_bootstrap",
+      "perturbation": "shallower",
+      "parameters": {
+        "depth": 4,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 100,
+        "pool_size": 20
+      },
+      "accuracy": 0.497,
+      "leaves": 7,
+      "difference": -0.007399999999999962
+    },
+    {
+      "scenario": "family-noise_n-200_noise-0.4_p-20",
+      "seed": 3009,
+      "permutation": 0,
+      "method": "relative_random_bootstrap",
+      "perturbation": "deeper",
+      "parameters": {
+        "depth": 6,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 100,
+        "pool_size": 20
+      },
+      "accuracy": 0.4976,
+      "leaves": 7,
+      "difference": -0.006799999999999973
+    },
+    {
+      "scenario": "family-noise_n-200_noise-0.4_p-20",
+      "seed": 3009,
+      "permutation": 0,
+      "method": "relative_random_bootstrap",
+      "perturbation": "smaller_leaves",
+      "parameters": {
+        "depth": 5,
+        "leaf": 16,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 100,
+        "pool_size": 20
+      },
+      "accuracy": 0.5006,
+      "leaves": 8,
+      "difference": -0.0037999999999999146
+    },
+    {
+      "scenario": "family-noise_n-200_noise-0.4_p-20",
+      "seed": 3009,
+      "permutation": 0,
+      "method": "relative_random_bootstrap",
+      "perturbation": "larger_leaves",
+      "parameters": {
+        "depth": 5,
+        "leaf": 24,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 100,
+        "pool_size": 20
+      },
+      "accuracy": 0.5044,
+      "leaves": 6,
+      "difference": 0.0
+    },
+    {
+      "scenario": "family-noise_n-200_noise-0.4_p-20",
+      "seed": 3009,
+      "permutation": 0,
+      "method": "relative_random_bootstrap",
+      "perturbation": "fewer_resamples",
+      "parameters": {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 50,
+        "pool_size": 10
+      },
+      "accuracy": 0.49,
+      "leaves": 8,
+      "difference": -0.014399999999999968
+    },
+    {
+      "scenario": "family-noise_n-200_noise-0.4_p-20",
+      "seed": 3009,
+      "permutation": 0,
+      "method": "relative_random_bootstrap",
+      "perturbation": "more_resamples",
+      "parameters": {
+        "depth": 5,
+        "leaf": 20,
+        "tau": 0.0,
+        "scale": 0.0
+      },
+      "settings": {
+        "seeds": 20,
+        "seed_start": 2000,
+        "test_size": 10000,
+        "proposals": 200,
+        "pool_size": 40
+      },
+      "accuracy": 0.5366,
+      "leaves": 6,
+      "difference": 0.032200000000000006
+    }
+  ],
+  "seconds": 1.5069988329923945
+}

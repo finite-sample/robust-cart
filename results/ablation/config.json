@@ -1,0 +1,193 @@
+{
+  "seed": 20261008,
+  "repetitions": 200,
+  "test_size": 5000,
+  "pool_size": 20,
+  "depths": [
+    2,
+    5
+  ],
+  "min_leaf": 10,
+  "conditions": [
+    [
+      "gaussian",
+      200,
+      0.4
+    ],
+    [
+      "gaussian",
+      200,
+      0.1
+    ],
+    [
+      "gaussian",
+      800,
+      0.4
+    ],
+    [
+      "binary",
+      200,
+      0.4
+    ],
+    [
+      "binary",
+      200,
+      0.1
+    ],
+    [
+      "binary",
+      800,
+      0.4
+    ],
+    [
+      "mixed",
+      200,
+      0.4
+    ],
+    [
+      "mixed",
+      200,
+      0.1
+    ],
+    [
+      "mixed",
+      800,
+      0.4
+    ],
+    [
+      "correlated",
+      200,
+      0.4
+    ],
+    [
+      "correlated",
+      200,
+      0.1
+    ],
+    [
+      "correlated",
+      800,
+      0.4
+    ],
+    [
+      "xor",
+      200,
+      0.4
+    ],
+    [
+      "xor",
+      200,
+      0.1
+    ],
+    [
+      "xor",
+      800,
+      0.4
+    ],
+    [
+      "majority",
+      200,
+      0.4
+    ],
+    [
+      "majority",
+      200,
+      0.1
+    ],
+    [
+      "majority",
+      800,
+      0.4
+    ],
+    [
+      "breast_cancer",
+      200,
+      0.4
+    ],
+    [
+      "breast_cancer",
+      200,
+      0.1
+    ],
+    [
+      "breast_cancer",
+      800,
+      0.4
+    ],
+    [
+      "wine",
+      200,
+      0.4
+    ],
+    [
+      "wine",
+      200,
+      0.1
+    ],
+    [
+      "wine",
+      800,
+      0.4
+    ],
+    [
+      "digits",
+      200,
+      0.4
+    ],
+    [
+      "digits",
+      200,
+      0.1
+    ],
+    [
+      "digits",
+      800,
+      0.4
+    ],
+    [
+      "gaussian",
+      200,
+      0.5
+    ],
+    [
+      "mixed",
+      200,
+      0.5
+    ],
+    [
+      "wine",
+      200,
+      0.5
+    ]
+  ],
+  "unit": "Independent training/test draw and proposal randomness; all arms paired",
+  "estimand": "Mean paired accuracy change separately within each context/regime/depth",
+  "primary": [
+    "fragmentation_binary",
+    "fragmentation_jittered",
+    "aggregation_binary",
+    "aggregation_jittered",
+    "interaction"
+  ],
+  "multiplicity": "Bonferroni over all primary cell contrasts; paired t intervals",
+  "risk": "Integrate test-label flips; independently draw test covariates per replicate",
+  "representation": "All constructed bits: Z versus Z + .25 U, U uniform[-1,1]",
+  "identity": "Natural, canonical, or one threshold per tree inside known support gaps",
+  "reconstruction": "Common partition candidates and priorities; global votes, no cutoff or impurity weighting",
+  "oracle": "Known gaps for all constructed bits, including noise; other thresholds kept distinct",
+  "controls": "Exact fixed-pool equivariance; CART refit column sensitivity measured separately",
+  "scope": "Real covariates are empirical nuisance distributions; their outcomes are never used",
+  "missing": "Any failed fit/check aborts; no dropped units; exact-config resume only",
+  "prior_information": "Weak binary gain and population XOR results informed this design; not preregistered",
+  "versions": {
+    "python": "3.14.7",
+    "numpy": "2.3.5",
+    "scipy": "1.16.3",
+    "sklearn": "1.8.0",
+    "pandas": "2.3.3"
+  },
+  "source_hashes": {
+    "ablation.py": "519c2b012ad8f128a059965e8a2dcfae86854944447de690903d3733dd3cd73e",
+    "trees.py": "c4d489a08604c5a6ae062df88a6d6a173b1e35d38eeab82c20332b5f050097bc"
+  }
+}

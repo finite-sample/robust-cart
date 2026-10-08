@@ -1,0 +1,16 @@
+{
+  "gap_row_order": 13600,
+  "gap_column_order": 13600,
+  "gap_scale": 13600,
+  "tree_structure": 235800,
+  "candidate_order": 54400,
+  "column_order": 54400,
+  "scale_by_two": 54400,
+  "unused_features": 54400,
+  "group_row_order": 13600,
+  "alias_candidates": 13600,
+  "alias_grouped_votes": 13600,
+  "canonical_training_predictions": 272000,
+  "no_coarsening_identity": 2300,
+  "null_risk": 4000
+}

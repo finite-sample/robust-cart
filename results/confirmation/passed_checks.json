@@ -1,0 +1,14 @@
+[
+  {
+    "scenario": "family-interaction_mixture-0.0_n-800_p-20",
+    "method": "weighted_bootstrap"
+  },
+  {
+    "scenario": "family-noise_n-200_noise-0.4_p-20",
+    "method": "relative_bootstrap"
+  },
+  {
+    "scenario": "family-noise_n-200_noise-0.4_p-20",
+    "method": "relative_random_bootstrap"
+  }
+]

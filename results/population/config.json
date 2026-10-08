@@ -1,0 +1,24 @@
+{
+  "features": [
+    3,
+    5,
+    10,
+    20
+  ],
+  "pool_sizes": [
+    1,
+    5,
+    20,
+    100,
+    500,
+    2000,
+    10000
+  ],
+  "repetitions": 2000,
+  "seed": 42,
+  "population": "Independent balanced bits; Y = X1 XOR X2; exact population Gini",
+  "pool": "Depth two; zero-gain splits allowed; independent uniform node ties",
+  "reconstruction": "Depth two; global split counts; no cutoff; uniform node ties",
+  "evaluation": "Exact population error averaged over reconstruction ties",
+  "source_hash": "5ae3bfa519a0825631850b62a022b6a60812f0af4194fb0607b1fe720eb15ba8"
+}

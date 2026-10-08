@@ -1,0 +1,70 @@
+audit_data.py  results/corrected/metrics.csv
+
+========================================================================
+1. SHAPE AND KEYS
+========================================================================
+rows 540   columns 12
+key ['scenario', 'dataset_seed', 'method']: 540 distinct, 0 duplicate rows
+
+========================================================================
+2. MISSINGNESS (level, and -- what matters -- differential)
+========================================================================
+no missing values anywhere
+
+differential missingness by 'method' (max-min fill rate > 2pp):
+  none
+
+========================================================================
+3. ZEROS VS MISSING
+========================================================================
+column                                           zeros       %   missing       %
+empty_pairs                                        532   98.5%         0    0.0%
+unsplit_fraction                                   523   96.9%         0    0.0%
+split_jaccard                                        4    0.7%         0    0.0%
+
+For every column with BOTH: is the zero 'measured, none found' or
+'not measured'? If the data cannot tell them apart, neither can the model.
+
+========================================================================
+4. DTYPE TRAPS
+========================================================================
+none found
+
+========================================================================
+5. VALUES OUTSIDE THEIR LOGICAL RANGE
+========================================================================
+none found
+
+========================================================================
+6. DISTRIBUTIONS, SKEW AND TAILS
+========================================================================
+                 column    median       max  max/med   skew  n_top  top_n_mass
+            empty_pairs     0.000    10.000      NaN 13.954      5       0.759
+       unsplit_fraction     0.000     0.500      NaN  7.848      5       0.500
+                seconds     0.722    45.681   63.265  3.421      5       0.124
+          split_jaccard     0.043     0.267    6.210  1.921      5       0.045
+prediction_disagreement     0.182     0.475    2.610  0.704      5       0.023
+                 leaves    17.100    25.900    1.515 -0.438      5       0.015
+         root_agreement     0.467     1.000    2.143  0.410      5       0.017
+               accuracy     0.780     0.984    1.262 -0.161      5       0.011
+           dataset_seed 1,002.000 1,004.000    1.002  0.000      5       0.009
+
+'top_n_mass' is the share of the total held by the n_top largest values
+(n_top = max(1, n/100), so it is a single value below n = 200). Both it
+and max/med are blank for columns with negative values, where neither is
+interpretable.
+
+3 column(s) are heavily skewed. Before choosing a method,
+decide whether the MEAN or the MEDIAN is the estimand -- see
+checks/tier2-statistical.md section F. Asymptotic SEs are optimistic here.
+
+========================================================================
+7. RATE COLUMNS AND THEIR RECONSTRUCTED DENOMINATORS
+========================================================================
+no columns whose name suggests a rate; skipping
+
+========================================================================
+SUMMARY
+========================================================================
+no hard failures. The soft findings above still need judgement --
+this script narrows where to look, it does not decide.
